@@ -1,16 +1,3 @@
-### How to initialize:
-->> cd to BACKEND: </br>
-    -> venv\Scripts\activate : </br>
-    -> python manage.py runserver : </br>
-    name: AdminUser : </br>
-    email: sefayetalam14@gmail.com : </br>
-    pass: 12345 : </br>
-
-->> in another terminal: : </br>
-    -> cd to frontend : </br>
-    -> npm start : </br>
-
-
 ### Project Description:
 
 # Project_Manager
@@ -82,6 +69,18 @@
     npm start
     ```
 
+### How to initialize:
+->> cd to BACKEND: </br>
+    -> venv\Scripts\activate : </br>
+    -> python manage.py runserver : </br>
+    name: AdminUser : </br>
+    email: sefayetalam14@gmail.com : </br>
+    pass: 12345 : </br>
+
+->> in another terminal: : </br>
+    -> cd to frontend : </br>
+    -> npm start : </br>
+    
 The application should now be running locally. You can access it by navigating to `http://localhost:3000` in your web browser.
 
 ## Usage
@@ -103,3 +102,4 @@ email: sefayetalam14@gmail.com
 ---
 
 Happy Project Managing!
+Learnt from the youtube channel: https://www.youtube.com/watch?v=Wn8wcz460bw&list=PLmEKHA8iFrmBCo1Guf3xbM1af5p5Ja-fy&index=15 </br>
