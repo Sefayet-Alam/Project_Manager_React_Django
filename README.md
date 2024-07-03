@@ -94,13 +94,11 @@ The application should now be running locally. You can access it by navigating t
 
 Contributions are welcome! Please fork the repository and submit a pull request.
 
-## License
-
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
 
 ## Contact
 
-For any inquiries or feedback, feel free to contact [yourname@example.com](mailto:yourname@example.com).
+For any inquiries or feedback, feel free to contact:
+email: sefayetalam14@gmail.com
 
 ---
 
