@@ -27,59 +27,30 @@
 - Django
 -  Read instructions.md ans install all
 
-### Backend Setup
 
-1. Clone the repository:
+
+### How to initialize:
+ Clone the repository:
     ```bash
     git clone https://github.com/Sefayet-Alam/Competitive-Programming-Resources.git
     cd Project_Manager
     ```
-
-2. Set up a virtual environment and activate it:
-    ```bash
-    python -m venv env
-    source env/bin/activate   # On Windows use `env\Scripts\activate`
-    ```
-
-3. Install the required Python packages:
-    ```bash
-    pip install -r requirements.txt
-    ```
-
-4. Apply migrations and run the Django development server:
-    ```bash
-    python manage.py migrate
+->> BACKEND: </br>
+  ```bash
+    cd  BACKEND
+    venv\Scripts\activate 
     python manage.py runserver
-    ```
+  ```
 
-### Frontend Setup
-
-1. Navigate to the frontend directory:
-    ```bash
-    cd frontend
-    ```
-
-2. Install the required npm packages:
-    ```bash
-    npm install
-    ```
-
-3. Start the React development server:
-    ```bash
-    npm start
-    ```
-
-### How to initialize:
-->> cd to BACKEND: </br>
-    -> venv\Scripts\activate : </br>
-    -> python manage.py runserver : </br>
     name: AdminUser : </br>
     email: sefayetalam14@gmail.com : </br>
     pass: 12345 : </br>
 
 ->> in another terminal: : </br>
-    -> cd to frontend : </br>
-    -> npm start : </br>
+```bash
+    cd frontend 
+    npm start
+```
     
 The application should now be running locally. You can access it by navigating to `http://localhost:3000` in your web browser.
 
