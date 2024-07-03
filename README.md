@@ -29,6 +29,8 @@
 
 
 
+
+
 ### How to initialize:
  Clone the repository:
     ```bash
@@ -38,7 +40,11 @@
 ->> BACKEND: </br>
   ```bash
     cd  BACKEND
+    python -m pip install django
     venv\Scripts\activate 
+    npm install -g npm
+    pip install djangorestframework
+    pip install django-cors-headers
     python manage.py runserver
   ```
 
