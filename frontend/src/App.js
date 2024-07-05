@@ -19,7 +19,7 @@ function App() {
             <Route path="/create" element={<Create />} />
             <Route path="/edit/:id" element={<Edit/>}/>
             <Route path="/delete/:id" element={<Delete/>}/>
-          </Routes>
+            </Routes>
         } />
     </div>
   );
